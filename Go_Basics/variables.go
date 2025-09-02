@@ -7,7 +7,7 @@ var middleName = "Cane"
 // declare firstName at package level if you want to use it in multiple functions
 var firstName = "Michael"
 
-func main() {
+func task() {
 	fmt.Println(middleName)
 	fmt.Println(firstName) // now works
 }

@@ -1,9 +1,9 @@
-package basics
+package GO_Basics
 
 const pi = 3.14
 const GRAVITY = 9.81
 
-func main() {
+func cst() {
 
 	const days int = 7
 

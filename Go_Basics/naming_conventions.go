@@ -14,7 +14,7 @@ type EmployeeApple struct {
 	Age       int
 }
 
-func main() {
+func conve() {
 	//  PascalCase
 	// Eg. CalculateArea, UserInfo, NewHTTPRequest
 	// Structs, interfaces, enums
